@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="image_list">
+        <item>@drawable/apple</item>
+        <item>@drawable/avocado</item>
+        <item>@drawable/banana</item>
+        <item>@drawable/cherries</item>
+        <item>@drawable/coconut</item>
+        <item>@drawable/grapes</item>
+        <item>@drawable/lemon</item>
+        <item>@drawable/orange</item><item>@drawable/strawberry</item>
+        <item>@drawable/peach</item>
+        <item>@drawable/pineapple</item>
+        <item>@drawable/tomato</item>
+        <!-- 添加更多图像资源 -->
+    </array>
+</resources>
